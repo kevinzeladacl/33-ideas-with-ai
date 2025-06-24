@@ -17,12 +17,12 @@
 
 ## 📌 Estado del desafío / Challenge Progress
 
-| # | Proyecto / Project | Estado / Status | Link |
-|---|--------------------|------------------|------|
-| 1 | ✏️ Por definir / To be defined | ⏳ En desarrollo / In progress | - |
-| 2 | ✏️ Por definir / To be defined | ⏳ En desarrollo / In progress | - |
-|...| ... | ... | ... |
-|33| ✏️ Por definir / To be defined | ⏳ En desarrollo / In progress | - |
+| # | Proyecto / Project | 📱 Tipo / Type | Estado / Status | 🔗 Link del repo |
+|---|--------------------|----------------|------------------|--------|
+| 1 | ✏️ Tracking App    | App Mobile     | ⏳ En desarrollo / In progress | [Github Repository - Tracking App](https://github.com/kevinzeladacl/tracking-app) |
+
+
+
 
 ---
 
