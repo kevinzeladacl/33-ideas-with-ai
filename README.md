@@ -19,7 +19,7 @@
 
 | # | Proyecto / Project | 📱 Tipo / Type | Estado / Status | 🔗 Link del repo |
 |---|--------------------|----------------|------------------|--------|
-| 1 | ✏️ Tracking App    | App Mobile     | ⏳ En desarrollo / In progress | [Github Repository - Tracking App](https://github.com/kevinzeladacl/tracking-app) |
+| 1 | ✏️ Tracking App    | App Mobile     | ⏳ En desarrollo / In progress | |
 
 
 
