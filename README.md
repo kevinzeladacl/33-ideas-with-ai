@@ -21,6 +21,7 @@
 |-----|---------------------------|------------------|----------------------------------|------------------|
 | 1  | Tracking App              | App Mobile / Ionic        | ✅ Base lista / Base ready       | [Repo](https://github.com/kevinzeladacl/tracking-app) |
 | 2  | Naming Generator          | Web App  / Angular        | ✅ Base lista / Base ready  | [Repo](https://github.com/kevinzeladacl/naming)       |
+| 3  | TCG APP          | Web App  / Angular        | ✅ Producción / Production  | [Website](https://tcgapp.dev)       |
 
 ---
 
