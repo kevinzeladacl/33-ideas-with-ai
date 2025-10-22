@@ -23,7 +23,8 @@
 | 2  | Naming Generator          | Web App  / Angular        | ✅ Base lista / Base ready  | [Repo](https://github.com/kevinzeladacl/naming)       |
 | 3  | TCG APP          | Web App  / Angular        | ✅ Producción / Production  | [Website](https://tcgapp.dev)       |
 | 4  | Pomodoro Terminal          | Script Python    | ✅ Base lista / Base ready  | [Repo]([https://tcgapp.dev](https://github.com/kevinzeladacl/pomodoro-terminal))       |
-| 4  | Generador de Propuestas        | Web App   | ✅ Base lista / Base ready  | [Repo](https://github.com/kevinzeladacl/generador-propuestas))       |
+| 5  | Generador de Propuestas        | Web App   | ✅ Base lista / Base ready  | [Repo](https://github.com/kevinzeladacl/generador-propuestas)      |
+| 6  | Simulator and videogame  for TCGAPP.dev        | Web App / Videogame   | ⏳ En progreso / In Progress  | [Website](https://tcgapp.dev)       |     |
 
 
 ---
