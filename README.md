@@ -29,6 +29,8 @@
 | 6  | Simulator & Videogame for TCGAPP.dev      | Web App / Videogame               | ⏳ En progreso / In Progress | [Website](https://tcgapp.dev) |
 | 7  | Pomofantasy                               | macOS App / Swift                 | ⏳ En progreso / In Progress | [Repo](https://github.com/kevinzeladacl/pomodorofantasy) |
 | 8  | CC-Agent Manager                          | VS Code Extension / TypeScript    | ✅ Producción / Production   | [Repo](https://github.com/kevinzeladacl/cc-agent-manager) |
+| 9  | LifeRPG                       | App Mobile / Ionic - FastAPI    | ✅ Base lista / Base ready   | [Repo](https://github.com/kevinzeladacl/liferpg) |
+
 
 ---
 
