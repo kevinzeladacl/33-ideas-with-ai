@@ -17,7 +17,7 @@
 
 ## 📌 Estado del desafío / Challenge Progress
 
-**8/33** proyectos completados / projects completed
+**10/33** proyectos completados / projects completed
 
 | #  | Proyecto / Project                         | 📱 Tipo / Type                    | Estado / Status              | 🔗 Link          |
 |----|-------------------------------------------|-----------------------------------|------------------------------|------------------|
@@ -30,6 +30,7 @@
 | 7  | Pomofantasy                               | macOS App / Swift                 | ⏳ En progreso / In Progress | [Repo](https://github.com/kevinzeladacl/pomodorofantasy) |
 | 8  | CC-Agent Manager                          | VS Code Extension / TypeScript    | ✅ Producción / Production   | [Repo](https://github.com/kevinzeladacl/cc-agent-manager) |
 | 9  | LifeRPG                       | App Mobile / Ionic - FastAPI    | ✅ Base lista / Base ready   | [Repo](https://github.com/kevinzeladacl/liferpg) |
+| 10 | Block Keyboard                            | Script / Bash                     | ✅ Base lista / Base ready   | [Repo](https://github.com/kevinzeladacl/block-keyboard.sh) |
 
 
 ---
