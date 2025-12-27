@@ -33,6 +33,7 @@
 | 10 | Block Keyboard                            | Script / Bash                     | ✅ Base lista / Base ready   | [Repo](https://github.com/kevinzeladacl/block-keyboard.sh) |
 | 11 | Vampire DM Tool                           | Desktop App / Angular + Electron  | ✅ Base lista / Base ready   | [Repo](https://github.com/kevinzeladacl/vampire-dm-tool) |
 | 12 | Buki                                      | App Mobile / Ionic + FastAPI      | ✅ Base lista / Base ready   | [Repo](https://github.com/kevinzeladacl/buki) |
+| 13 | Career Roadmap Generator                  | Web App / Angular                 | ⏳ En progreso / In Progress | [Repo](https://github.com/kevinzeladacl/jobs-learn) |
 
 
 ---
