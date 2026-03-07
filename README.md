@@ -17,7 +17,7 @@
 
 ## 📌 Estado del desafío / Challenge Progress
 
-**13/33** proyectos completados / projects completed
+**14/33** proyectos completados / projects completed
 
 | #  | Proyecto / Project                         | 📱 Tipo / Type                    | Estado / Status              | 🔗 Link          |
 |----|-------------------------------------------|-----------------------------------|------------------------------|------------------|
@@ -35,6 +35,7 @@
 | 12 | Buki                                      | App Mobile / Ionic + FastAPI      | ⏳ En progreso / In Progress   | [Repo](https://github.com/kevinzeladacl/buki) |
 | 13 | Career Roadmap Generator                  | Web App / Angular                 | ⏳ En progreso / In Progress | [Repo](https://github.com/kevinzeladacl/jobs-learn) |
 | 14 | Light Academy                             | Web App / Angular + FastAPI       | ✅ Base lista / Base ready   | [Repo](https://github.com/kevinzeladacl/light-academy) |
+| 15 | CC-Queue                                  | CLI Tool / Bun                    | ✅ Base lista / Base ready   | [Repo](https://github.com/kevinzeladacl/cc-queue) |
 
 
 ---
